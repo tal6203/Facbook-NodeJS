@@ -1,0 +1,2514 @@
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:06'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:06'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:15'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:15'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:16'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:16'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:16'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:16'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:16'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:16'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:17'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:17'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:17'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:17'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:17'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:17'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:18'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:20'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:20'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:20'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:20'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:21'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:21'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:21'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:21'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:22'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:22'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:22'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:22'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:22'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:22'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:23'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:23'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:23'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:23'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:23'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:23'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:24'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:24'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:24'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:24'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:24'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:24'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:27'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:27'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:27'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:27'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:33'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:33'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:35'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:35'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:37'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:37'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:38'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:38'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:39'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:39'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:41'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:41'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:41'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:41'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:42'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:43'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:43'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:43'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:43'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:43'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:43'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:45'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:45'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:46'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:46'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:46'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:46'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:46'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:46'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:47'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:48'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:48'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:48'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:48'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:54'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:54'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:55'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 02:55'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:02'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:02'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:09'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:09'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:10'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:10'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:10'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:10'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:10'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:10'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:11'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:11'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:12'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:12'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:18'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:18'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:19'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:19'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:20'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:20'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:20'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:20'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:21'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:21'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:22'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:22'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:23'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:23'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:23'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:23'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:24'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:24'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:25'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:25'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:25'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:25'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:26'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:26'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:28'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:28'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:29'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:29'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:29'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:29'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:29'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:29'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 03:30'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 22:59'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 22:59'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 22:59'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:07'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:07'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:07'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:07'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:07'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:07'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:12'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:12'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:13'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:13'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:14'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:14'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:15'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:15'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:19'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:19'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:21'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:21'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:22'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:22'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:22'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:22'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:22'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:22'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:28'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:28'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:28'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:28'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:28'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:28'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:32'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:32'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:33'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:33'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:33'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:33'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:34'
+}
+{
+  message: 'New friend added successfully. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:34'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:34'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:34'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:35'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:35'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:35'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'Successfully get friend by id 1 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'Successfully fetched friend by id: 1 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'Successfully get friend by id 2 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'Successfully fetched friend by id: 2 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:36'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:37'
+}
+{
+  message: 'New friend added successfully. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:37'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:37'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:37'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:37'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:37'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:48'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:48'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:48'
+}
+{
+  message: 'New friend added successfully. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:48'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:48'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:48'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'New friend added successfully. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'Successfully get friend by id 8 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'Successfully fetched friend by id: 8 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:49'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:50'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:50'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:50'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:50'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:50'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:51'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:51'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:51'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:51'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:51'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:51'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:52'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:52'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:52'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:52'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:52'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:52'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:54'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:54'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:56'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:56'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:58'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '16/07/2023 23:58'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:00'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:00'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:06'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:06'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:12'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:12'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:14'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:14'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:16'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:16'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:23'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:23'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:26'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:26'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:27'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:27'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:38'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:38'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:39'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:39'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:40'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:40'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:41'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:41'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:41'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:41'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:41'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:41'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:42'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:43'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:43'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:44'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:44'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:44'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:44'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:45'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:45'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:47'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:48'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:48'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:48'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:48'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:48'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:48'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:49'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:49'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:50'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:50'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:50'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:52'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:52'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:53'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:53'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:53'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:53'
+}
+{
+  message: 'New friend added successfully. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:53'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:53'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:53'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:54'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:54'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:54'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:54'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:54'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:54'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:55'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:55'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:55'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:55'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:55'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:55'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:56'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:56'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:56'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:56'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:56'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:56'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully get friend by id 2 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully fetched friend by id: 2 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully get friend by id 1 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully fetched friend by id: 1 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully get friend by id 2 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully fetched friend by id: 2 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:57'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:58'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 00:58'
+}

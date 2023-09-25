@@ -1,0 +1,1428 @@
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:21'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:21'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:22'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:24'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:25'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Successfully get friend by id 2 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Successfully fetched friend by id: 2 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:26'
+}
+{
+  message: 'Successfully get friend by id 1 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Successfully fetched friend by id: 1 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:27'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:28'
+}
+{
+  message: 'New friend added successfully. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:28'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:28'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:28'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:28'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:29'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:30'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:30'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:30'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:31'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:31'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:31'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:31'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:31'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:32'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:32'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:32'
+}
+{
+  message: 'Login failed. Error: incorrect email',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:32'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1d253abeaebfffb74001d',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:32'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1d253abeaebfffb74001d',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:32'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1d253abeaebfffb74001d',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:32'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:33'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:34'
+}
+{
+  message: 'User registered successfully. User ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:34'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:34'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:34'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:35'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:35'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:36'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:36'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:36'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:36'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:36'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:37'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:37'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:37'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:38'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:38'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:38'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:38'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:38'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:38'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64b470870a622e23be462145',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'User registration failed. Error: users validation failed: password: Minimum password length is 4 characters',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:40'
+}
+{
+  message: 'User registration failed. Error: users validation failed: password: Minimum password length is 4 characters',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:41'
+}
+{
+  message: 'User registration failed. Error: E11000 duplicate key error collection: node-auth.users index: email_1 dup key: { email: "tal6203@gmail.com" }',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:41'
+}
+{
+  message: 'User registered successfully. User ID: 64b4722a1d7fcb89ebca8899',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:41'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64b4722a1d7fcb89ebca8899',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:41'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64b4722a1d7fcb89ebca8899',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:41'
+}
+{
+  message: 'Login failed. Error: incorrect password',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:41'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:42'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:42'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:44'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:44'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:45'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:45'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully get friend by id 1 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully fetched friend by id: 1 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully get friend by id 2 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully fetched friend by id: 2 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:46'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:47'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:47'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:48'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:49'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:49'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:49'
+}
+{
+  message: 'New friend added successfully. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:49'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:49'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:49'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'New friend added successfully. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:50'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:51'
+}
+{
+  message: 'Duplicate key violation. Error: Key (email)=(jane@example.com) already exists.',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'Error adding a new friend. Error: insert into "friendlist" ("age", "email", "id", "id_user_log", "image_src", "username") values ($1, $2, $3, $4, $5, $6) returning "id" - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'Duplicate key violation. Error: Key (username)=(JaneSmith78) already exists.',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'Error adding a new friend. Error: insert into "friendlist" ("age", "email", "id", "id_user_log", "image_src", "username") values ($1, $2, $3, $4, $5, $6) returning "id" - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'New friend added successfully. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:52'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 9',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'New friend added successfully. Friend ID: 9',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 9',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:53'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:56'
+}
+{
+  message: 'New friend added successfully. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:56'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:56'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:56'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:57'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:58'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:58'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:58'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 01:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:01'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:01'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:01'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:01'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:01'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:01'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:02'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:02'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:02'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:02'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:02'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:02'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully get friend by id 7 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Successfully fetched friend by id: 7 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 02:03'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 05:32'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 05:33'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '17/07/2023 05:33'
+}

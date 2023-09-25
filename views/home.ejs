@@ -1,0 +1,17 @@
+<%- include('partials/header'); -%>​
+
+
+  <% if (user) { %>
+    <div class="container">
+      <div class="connect-h1 text-center">
+        Hello, <%= user.username %>
+      </div>
+    </div>
+  <% } %>
+  <div class="best-friends">
+    <a href="/bestfriends" class="btn-bestfriends"></a>
+  </div>
+
+
+
+<%- include('partials/footer'); -%>​

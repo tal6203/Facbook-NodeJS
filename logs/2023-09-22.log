@@ -1,0 +1,1260 @@
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 09:16'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 09:16'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 09:16'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 09:16'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:39'
+}
+{
+  message: 'Login failed. Error: incorrect email',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:40'
+}
+{
+  message: 'Login failed. Error: incorrect email',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:40'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:44'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:44'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:44'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:44'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:45'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:46'
+}
+{
+  message: 'Error connecting to the database: bad auth : Authentication failed.',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:49'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:49'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:49'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:49'
+}
+{
+  message: 'Error connecting to the database: bad auth : Authentication failed.',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:50'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:50'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:50'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:50'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:53'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:53'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:53'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:54'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:57'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:57'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 14:58'
+}
+{
+  message: 'Error connecting to the database: bad auth : authentication failed',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:05'
+}
+{
+  message: 'Error connecting to the database: bad auth : authentication failed',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:05'
+}
+{
+  message: 'Error connecting to the database: bad auth : authentication failed',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:05'
+}
+{
+  message: 'Error connecting to the database: bad auth : authentication failed',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:05'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:05'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:05'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:07'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:07'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:07'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:07'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:07'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:10'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:11'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:11'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:11'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:11'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:14'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:14'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:14'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:14'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:15'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:15'
+}
+{
+  message: 'Error connecting to the database: connect ECONNREFUSED ::1:27022',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:16'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:16'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:16'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:16'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:16'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:19'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:20'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:20'
+}
+{
+  message: 'Login failed. Error: incorrect email',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:20'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:22'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:23'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:24'
+}
+{
+  message: 'User logged in successfully. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:24'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:24'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:24'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:26'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:26'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:26'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:26'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:27'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:27'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:27'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:27'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:29'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:29'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:29'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:29'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:30'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:30'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:30'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:30'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:30'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:30'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:31'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:31'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:31'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:32'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:32'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:32'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:32'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:32'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'User logged in successfully. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:33'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:34'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:34'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:34'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:34'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:34'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:35'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:35'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:37'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:39'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:41'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:41'
+}
+{
+  message: 'User logged in successfully. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:42'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:42'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:42'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:44'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: connectedKnex(...).select(...).where(...).replace is not a function',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:44'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:44'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:44'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:44'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:44'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:45'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:45'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:45'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:46'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:47'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:47'
+}
+{
+  message: 'User logged in successfully. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:47'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:47'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:47'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:47'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:48'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:49'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:50'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:50'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:50'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:51'
+}
+{
+  message: 'User logged in successfully. User ID: undefined',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 15:51'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:22'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:22'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:22'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:23'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:23'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:23'
+}
+{
+  message: 'User logged in successfully. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:23'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:23'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:23'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:24'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:24'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:24'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:24'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:24'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:25'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:25'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:25'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:26'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:26'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:26'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:28'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:28'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:28'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:28'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:32'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: getaddrinfo ENOTFOUND dpg-cjvdd8vhdsdc73df4qlg-a',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:32'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:32'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:33'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:33'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:33'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:33'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:34'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:34'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:34'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:34'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:34'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:35'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:35'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:35'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:36'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:36'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:38'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:38'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:38'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:41'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:41'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:41'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error fetching friend list from PostgreSQL. Error: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:42'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Error connecting to PostgreSQL: read ECONNRESET',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '22/09/2023 16:43'
+}

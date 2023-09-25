@@ -1,0 +1,98 @@
+<%- include('partials/header'); -%>
+<div class="center-container">
+  <div class="div-signup">
+    <form action="/signup" class="text-center">
+      <h2 style="text-align: center; margin-top: 10px">Sign Up</h2>
+      <div class="form-group">
+        <div
+          style="display: flex; justify-content: center; align-items: center"
+          class="input-group"
+        >
+          <span class="input-group-text"
+            ><i class="bi bi-person-fill"></i
+          ></span>
+          <input
+            placeholder="Username"
+            type="text"
+            class="form-control custom-input"
+            name="username"
+            required
+          />
+        </div>
+        <div class="username error"></div>
+      </div>
+      <div class="form-group">
+        <div
+          style="display: flex; justify-content: center; align-items: center"
+          class="input-group"
+        >
+          <span class="input-group-text"
+            ><i class="bi bi-envelope-fill"></i
+          ></span>
+          <input
+            placeholder="Email"
+            type="text"
+            class="form-control custom-input"
+            name="email"
+            required
+          />
+        </div>
+        <div class="email error"></div>
+      </div>
+      <div class="form-group">
+        <div
+          style="display: flex; justify-content: center; align-items: center"
+          class="input-group"
+        >
+          <span class="input-group-text"><i class="bi bi-lock-fill"></i></span>
+          <input
+            id="password"
+            placeholder="Password"
+            type="password"
+            class="form-control custom-input"
+            name="password"
+            autocomplete="on"
+            required
+          />
+        </div>
+        <input type="checkbox" onclick="show_pass()" />Show Password
+        <div class="password error"></div>
+      </div>
+      <div class="form-group form-check">
+        <div style="display: flex; justify-content: center">
+          <input
+            style="margin-right: 10px"
+            type="checkbox"
+            class="form-check-input"
+            name="regulations"
+            required
+          />
+          <label
+            style="display: flex"
+            class="form-check-label"
+            for="regulations"
+          >
+            I need and agree to
+            <a class="agree" href="#" onclick="event.preventDefault(); showTermsConditions();">Terms & conditions</a>
+          </label>
+        </div>
+      </div>
+      <button
+        style="margin-bottom: 10px; margin-top: 10px"
+        type="submit"
+        class="btn btn-success"
+      >
+        Create Account
+      </button>
+    </form>
+    <div style="text-align: center">
+      <span
+        >Already have an account? <a href="/login" class="agree">Login</a></span
+      >
+    </div>
+  </div>
+</div>
+
+<%- include('partials/footer'); -%>
+
+<script src="/scripts/signup.js"></script>

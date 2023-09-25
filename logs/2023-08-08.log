@@ -1,0 +1,24 @@
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '08/08/2023 02:55'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '08/08/2023 02:56'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '08/08/2023 02:58'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '08/08/2023 02:58'
+}

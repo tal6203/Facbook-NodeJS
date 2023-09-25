@@ -1,0 +1,22 @@
+{
+    "db": {
+     "host":"127.0.0.1",
+     "user":"postgres",
+     "password":"admin",
+     "database":"postgres",
+     "version":15
+     },
+     "connectionString" : "postgres://postgres_5v93_user:mm7ZASsPcO3Yjf7z3PdKewqJq11MmsKI@dpg-cjvdd8vhdsdc73df4qlg-a.oregon-postgres.render.com/postgres_5v93",
+     "express": {
+        "port": 3000
+    },
+    "moongodbAtlas":{
+        "url": "mongodb+srv://admin:T1s3f765!@cluster0.nbpuux2.mongodb.net/node-auth"
+    },
+    "mongodb": {
+        "uri" : "mongodb://root:rootpassword@localhost:27022/node-auth?authSource=admin"
+    },
+    "mongodbtest": {
+        "uri": "mongodb://root:rootpassword@localhost:27022/my-test-db?authSource=admin"  
+      }
+ } 

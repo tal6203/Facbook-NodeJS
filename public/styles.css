@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+
+  body {
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+  }
+
+ 
+
+  @import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&family=Calligraffitti&display=swap');
+
+
+  
+  .connect-h1 {
+    font-family: 'Calligraffitti', cursive;
+    font-size: 3rem;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    color:black;
+    text-shadow: 5px 5px 0px #7843eb, 
+      10px 10px 0px #2db9ec, 
+      15px 15px 0px  #52e5e8, 
+      20px 20px 0px #4235d4, 
+      25px 25px 0px #6f6fc9, 
+      30px 30px 0px #90B1E0;
+  }
+
+
+  body{
+    font-family: cursive;
+
+    background-image: linear-gradient(to left bottom, #517eda, #4f7fdf, #4d7fe3, #4a80e8, #4880ec, #368df4, 
+    #2199fa, #00a5ff, #00bdff, #00d3ff, #00e7fa, #33f9ec);
+    
+  }
+
+  .modal-content {
+    background-image: url('/img/background.avif');
+    background-size: cover;
+    color: #fff;
+  }
+
+  .modal-header {
+    background-color: #1877f2;
+    color: #fff;
+  }
+
+  .modal-title {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 24px;
+    text-transform: uppercase;
+  }
+
+  .form-label {
+    font-weight: bold;
+  }
+
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+
+
+  .best-friends {
+    display: flex;
+    justify-content: center;
+  }
+
+  .title-edit{
+    font-size: 24px;
+    text-decoration: underline;
+    background-color:white;
+    opacity: 0.7;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .label-edit{
+    background-color:white;
+    opacity: 0.7;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  
+
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 100px;
+  }
+
+  .div-login {
+    border:4px solid #333;
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 20px;  
+  }
+
+  .error{
+    color: red;
+    margin: 10px 2px;
+    font-size: 1em;
+    font-weight: bold;
+  }
+
+  .div-signup{
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  border: 4px solid #333;
+  background-color: #f8f9fa;
+  width: 460px;
+  border-radius: 20px;
+  margin-bottom: 100px;
+  }
+
+ 
+
+  .btn-bestfriends {
+    display: inline-block;
+    background: url('img/best-frends.png') no-repeat center center;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .img-best-friends{
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%; 
+    margin-bottom: 20px;
+    border: 5px solid #1877f2;
+  }
+
+  .empty-search-result {
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color:#8c67e8;
+    color: black;
+    font-size: 30px;
+    vertical-align: middle;
+    border: 5px solid #333;
+    letter-spacing: 0.02em;
+  }
+
+
+  .no-friends-message {
+    background-color: #8c67e8;
+    border-radius: 20px;
+    width: 300px;
+    padding: 20px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 28px;
+    color: black;
+    border: 5px solid #333;
+  }
+
+  .custom-input {
+    max-width: 250px;
+    margin: 0 auto;
+    border-radius: 20px; 
+  }
+  
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-link{
+    color: white;
+    font-size: 18px;
+  }
+
+  .navbar-icon {
+    height: 30px;
+    width: 30px; 
+    margin-right: 5px; 
+  }
+
+  .navbar-nav {
+    justify-content: center;
+    align-items: center;
+  }
+.h-best-friends{
+  color:black;
+  margin-top:20px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.back-button {
+  margin-top: 20px;
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+.back-button a {
+  text-decoration: none;
+  border: none;
+}
+
+.agree{
+  color: purple;
+  text-decoration: none;
+}
+
+  .h-facebook{
+    color: black;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 26px;
+     display: block;
+    padding: 10px 16px;
+    letter-spacing: 2px;
+  }
+
+ 

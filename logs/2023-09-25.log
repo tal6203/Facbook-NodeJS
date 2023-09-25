@@ -1,0 +1,486 @@
+{
+  message: 'Error connecting to the database: bad auth : authentication failed',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:40'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:41'
+}
+{
+  message: 'Login failed. Error: incorrect email',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:41'
+}
+{
+  message: 'Login failed. Error: incorrect email',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:41'
+}
+{
+  message: 'Error connecting to the database: option node-auth is not supported',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:42'
+}
+{
+  message: 'Error connecting to the database: option node-auth is not supported',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:42'
+}
+{
+  message: 'Error connecting to the database: URI cannot contain options with no value',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'User logged in successfully. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:43'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:45'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:45'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:45'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:46'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:46'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:46'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:46'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:46'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:47'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:48'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:48'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:48'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:48'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:49'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:49'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:49'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 1',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:50'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:50'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:50'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:51'
+}
+{
+  message: 'New friend added successfully. Friend ID: 7',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:51'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:51'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:51'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:55'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:55'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:57'
+}
+{
+  message: 'New friend added successfully. Friend ID: 8',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:57'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:57'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:57'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:58'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 21:59'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:00'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:00'
+}
+{
+  message: 'Error adding a new friend to PostgreSQL. Error: id_user_log is not defined',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:01'
+}
+{
+  message: 'Error adding a new friend. Error: id_user_log is not defined',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:01'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:02'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:02'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:02'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:03'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 9',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:03'
+}
+{
+  message: 'New friend added successfully. Friend ID: 9',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:03'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:03'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:03'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 9',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:05'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:05'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:05'
+}
+{
+  message: 'New friend added to PostgreSQL. Friend ID: 10',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:06'
+}
+{
+  message: 'New friend added successfully. Friend ID: 10',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:06'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:06'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:06'
+}
+{
+  message: 'Duplicate key violation. Error: Key (email)=(tal6203@gmail.com) already exists.',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:06'
+}
+{
+  message: 'Error adding a new friend. Error: insert into "friendlist" ("age", "email", "id", "id_user_log", "image_src", "username") values ($1, $2, $3, $4, $5, $6) returning "id" - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:06'
+}
+{
+  message: 'Error adding a new friend to PostgreSQL. Error: select max("id") from "friendlist" - Connection terminated unexpectedly',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Error adding a new friend. Error: select max("id") from "friendlist" - Connection terminated unexpectedly',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Duplicate key violation. Error: Key (username)=(tal6203) already exists.',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Error adding a new friend. Error: insert into "friendlist" ("age", "email", "id", "id_user_log", "image_src", "username") values ($1, $2, $3, $4, $5, $6) returning "id" - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 10',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}
+{
+  message: 'Successfully fetched friend list for user ID: $oid:64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '25/09/2023 22:07'
+}

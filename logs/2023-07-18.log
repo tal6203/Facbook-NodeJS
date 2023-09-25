@@ -1,0 +1,174 @@
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:08'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:08'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:08'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:08'
+}
+{
+  message: 'Login failed. Error: incorrect password',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:09'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:09'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:09'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:09'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:09'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 17:09'
+}
+{
+  message: 'Server started and listening to port 3000',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Successfully get friend by id 3 from PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Successfully fetched friend by id: 3 for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Successfully deleted friend from PostgreSQL. Friend ID: 3',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:00'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:01'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_username_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:01'
+}
+{
+  message: 'Error updating friend in PostgreSQL. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:02'
+}
+{
+  message: 'Error updating a friend. Error: update "friendlist" set "username" = $1, "email" = $2, "age" = $3, "image_src" = $4 where "id" = $5 - duplicate key value violates unique constraint "friendlist_email_key"',
+  level: 'error',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:02'
+}
+{
+  message: 'Successfully updated friend in PostgreSQL. Friend ID: 2',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:02'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:02'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:02'
+}
+{
+  message: 'User logged in successfully. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:03'
+}
+{
+  message: 'Successfully get all friend in PostgreSQL. User ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:03'
+}
+{
+  message: 'Successfully fetched friend list for user ID: 64a1cf9f23864fbf30daabdf',
+  level: 'info',
+  label: 'Logger!',
+  timestamp: '18/07/2023 18:03'
+}

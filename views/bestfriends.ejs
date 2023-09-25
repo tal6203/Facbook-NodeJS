@@ -1,0 +1,86 @@
+<%- include('partials/header'); -%>​
+
+<script>
+
+  const user = {id : "<%= user.id %>", username : "<%= user.username %>"};
+
+</script>
+<script src="/scripts/bestfriends.js"> </script>
+<div class="container">
+  <div class="row justify-content-center">
+    <h1 style="margin-bottom: 50px;" class="connect-h1 text-center">The best friends of <%= user.username %></h1>
+    <div id="friendlist-container" class="row justify-content-center"></div>
+    <div class="row justify-content-center mt-3">
+      <div class="col-md-3 form-location">
+
+      </div>
+    </div>
+    <div class="col back-button">
+      <a href="/" class="btn btn-danger">
+        <i class="bi bi-arrow-left"></i> Back
+      </a>
+      <button id="add_friend"  class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addFriendModal">
+        <i class="bi bi-person-plus-fill"></i> Add friend
+      </button>
+      <!-- Add Friend Modal -->
+    <div class="modal fade" id="addFriendModal" tabindex="-1" aria-labelledby="addFriendModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+        <h5 class="modal-title" id="addFriendModalLabel">Add Friend</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" onclick="document.getElementById('add-form').reset()" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Add Friend Form -->
+        <form id="add-form" onsubmit="submitAdd(event)">
+          <div class="mb-3">
+            <label for="username" class="form-label">
+              <i class="bi bi-person-fill"></i> User Name:
+            </label>
+            <input type="text" class="form-control" id="username" name="username" placeholder="Enter friend's User Name" required>
+          </div>
+          <div class="mb-3">
+            <label for="email" class="form-label">
+              <i class="bi bi-envelope-fill"></i> Email:
+            </label>
+            <input type="email" class="form-control" name="email" id="email" placeholder="Enter friend's email" required>
+          </div>
+          <div class="mb-3">
+            <label for="age" class="form-label">
+              <i class="bi bi-calendar-fill"></i> Age:
+            </label>
+            <input type="number" class="form-control" id="age" name="age" placeholder="Enter friend's age" required>
+          </div>
+          <div class="mb-3">
+            <label for="age" class="form-label">
+              <i class="bi bi-image-fill"></i> Image:
+            </label>
+            <div class="custom-file">
+              <input type="file" name="image_src" class="custom-file-input" id="image_src">
+            </div>
+          </div>
+          <div class="text-errors"></div>
+          <div class="text-center"><button type="submit"  class="btn btn-success">
+            <i class="bi bi-person-plus-fill"></i> Add Friend
+          </button></div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+<!-- I made the footer here because every time it would jump it doesn't sit well -->
+<footer id="footer" class="footer bg-primary text-light">
+  <div class="container py-3 ">
+    <p class="text-center fs-6">&copy; <%= new Date().getFullYear() %>  Tal Abutbul Ltd. All rights reserved.</p>
+    <p class="text-center fs-6">Contact: Tal6203@Gmail.com | Phone: 052-681-2203</p>
+  </div>
+</footer>
+</body>
+</html>
+
+
+
+
