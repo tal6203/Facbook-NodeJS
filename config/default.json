@@ -11,7 +11,7 @@
         "port": 3000
     },
     "moongodbAtlas":{
-        "url": "mongodb+srv://admin:T1s3f765!@cluster0.nbpuux2.mongodb.net/node-auth"
+        "url": "mongodb+srv://user1:tal1234@cluster0.nbpuux2.mongodb.net/node-auth"
     },
     "mongodb": {
         "uri" : "mongodb://root:rootpassword@localhost:27022/node-auth?authSource=admin"
