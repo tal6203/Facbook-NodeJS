@@ -28,7 +28,7 @@ const dbURI = config.moongodbAtlas.url;
 mongoose.set('strictQuery', true);
 
 
-const port = config.express.PORT || 3000;
+const port = config.express.port;
 
 
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
