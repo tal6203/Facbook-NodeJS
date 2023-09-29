@@ -6,13 +6,9 @@
      "database":"postgres",
      "version":15
      },
+    "port" : 3000,
      "connectionString" : "postgres://default:rRe4j6qIdWNO@ep-ancient-night-66099727.us-east-1.postgres.vercel-storage.com:5432/verceldb",
-     "express": {
-        "port": 3000
-    },
-    "moongodbAtlas":{
-        "url": "mongodb+srv://user1:tal1234@cluster0.nbpuux2.mongodb.net/node-auth"
-    },
+    "moongodbAtlas": "mongodb+srv://user1:tal1234@cluster0.nbpuux2.mongodb.net/node-auth",
     "mongodb": {
         "uri" : "mongodb://root:rootpassword@localhost:27022/node-auth?authSource=admin"
     },
