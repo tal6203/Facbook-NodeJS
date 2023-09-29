@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "set NODE_ENV=production && nodenode app.js",
     "test": "mocha test/user.test.js --timeout 10000"
   },
   "keywords": [],
