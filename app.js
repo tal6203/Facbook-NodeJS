@@ -33,7 +33,7 @@ const port = config.express.port;
 
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
-    app.listen(port || 3000, () => {
+    app.listen(port, () => {
       console.log(`Listening to port ${port}`);
       logger.info(`Server started and listening to port ${port}`);
 
