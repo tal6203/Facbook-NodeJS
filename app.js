@@ -23,12 +23,12 @@ app.set('view engine', 'ejs');
 
 
 // database connection
-const dbURI = config.moongodbAtlas.url;
+const dbURI = config.moongodbAtlas;
 
 mongoose.set('strictQuery', true);
 
 
-const port = config.express.port;
+const port = config.port;
 
 
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
