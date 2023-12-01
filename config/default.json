@@ -6,7 +6,7 @@
      "database":"postgres",
      "version":15
      },
-     "connectionString" : "postgres://default:rRe4j6qIdWNO@ep-ancient-night-66099727.us-east-1.postgres.vercel-storage.com:5432/verceldb",
+     "connectionString" : "postgres://default:cwd9a1IrDMPx@ep-steep-dream-56573355.us-east-1.postgres.vercel-storage.com:5432/verceldb",
      "express": {
         "port": 3000
     },
