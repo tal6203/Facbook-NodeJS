@@ -1,6 +1,6 @@
 const knex = require('knex');
 const config = require('../config/default.json');
-const logger = require('../logger/my_logger');
+// const logger = require('../logger/my_logger');
 
 
 const sslConfig = {
