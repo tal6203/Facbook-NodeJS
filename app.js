@@ -5,6 +5,7 @@ const cookieParser = require('cookie-parser');
 const { checkUser } = require('./middleware/middleware');
 const config = require('./config/default.json');
 const cors = require('cors');
+const path = require('path');
 // const logger = require('./logger/my_logger');
 
 
@@ -13,6 +14,7 @@ const app = express();
 
 // middleware
 app.use(express.static('public'));
+app.set('views', path.join(__dirname, 'views'));
 app.use(express.json());
 app.use(cookieParser());
 
