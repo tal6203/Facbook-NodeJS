@@ -242,9 +242,7 @@ function filterUsername(searchValue) {
 
 
 function getAllFriends() {
-      fetch(`https://facbook-node-740n59hru-tal6203.vercel.app/friends/${user.id}`, {
-    credentials: 'include',
-  })
+      fetch(`https://facbook-node-740n59hru-tal6203.vercel.app/friends/${user.id}`)
       .then((res) =>  {
     if (res.status === 204) {
       return {}; // Return an empty object
