@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const routes = require('./routes/routes');
 const cookieParser = require('cookie-parser');
 const { checkUser } = require('./middleware/middleware');
-const config = require('config');
+const config = require('./config/default.json');
 const cors = require('cors');
 const logger = require('./logger/my_logger');
 
