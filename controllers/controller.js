@@ -1,7 +1,7 @@
 const User = require("../models/User");
 const jwt = require('jsonwebtoken');
 const dal = require('../models/dal');
-const logger = require('../logger/my_logger');
+// const logger = require('../logger/my_logger');
 
 
 
@@ -66,12 +66,12 @@ module.exports.signup_post = async (req, res) => {
         const token = createToken(user._id);
         res.cookie('jwt', token, { httpOnly: true, maxAge: maxAge * 1000 });
         res.status(201).json({ user: user._id });
-        logger.info(`User registered successfully. User ID: ${user._id}`);
+        // logger.info(`User registered successfully. User ID: ${user._id}`);
     }
     catch (err) {
         const errors = handleErrors(err);
         res.status(400).json({ errors });
-        logger.error(`User registration failed. Error: ${err.message}`);
+        // logger.error(`User registration failed. Error: ${err.message}`);
     }
 
 }
@@ -85,12 +85,12 @@ module.exports.login_post = async (req, res) => {
         const token = createToken(user._id);
         res.cookie('jwt', token, { httpOnly: true, maxAge: maxAge * 1000 });
         res.status(200).json({ user: user._id });
-        logger.info(`User logged in successfully. User ID: ${user._id}`);
+        // logger.info(`User logged in successfully. User ID: ${user._id}`);
     }
     catch (err) {
         const errors = handleErrors(err);
         res.status(400).json({ errors });
-        logger.error(`Login failed. Error: ${err.message}`);
+        // logger.error(`Login failed. Error: ${err.message}`);
     }
 }
 
@@ -103,10 +103,10 @@ module.exports.best_friends_get_friendlist = async (req, res) => {
         const id_user = req.params.userId;
         const friendlist = await dal.getFriendsByUserId(id_user);
         friendlist && friendlist.length > 0 ? res.status(200).json({ friendlist }) : res.status(204).json({ friendlist });
-        logger.info(`Successfully fetched friend list for user ID: ${id_user}`);
+        // logger.info(`Successfully fetched friend list for user ID: ${id_user}`);
     } catch (e) {
         res.status(500).json({ error: 'Internal server error' });
-        logger.error(`Error fetching friend list. Error: ${e.message}`);
+        // logger.error(`Error fetching friend list. Error: ${e.message}`);
     }
 };
 
@@ -116,11 +116,11 @@ module.exports.get_friend_by_id = async (req, res) => {
         const friendId = req.params.friendId;
         const result = await dal.getFriendById(userId, friendId);
         result ? res.status(200).json({ result }) : res.status(204).json({ result });
-        logger.info(`Successfully fetched friend by id: ${friendId} for user ID: ${userId}`);
+        // logger.info(`Successfully fetched friend by id: ${friendId} for user ID: ${userId}`);
     } catch (e) {
         console.log(e.message);
         res.status(500).json({ error: 'Internal server error' });
-        logger.error(`Error getting a friend by id ${friendId}. Error: ${e.message}`);
+        // logger.error(`Error getting a friend by id ${friendId}. Error: ${e.message}`);
     }
 }
 
@@ -137,11 +137,11 @@ module.exports.add_new_friend = async (req, res) => {
         res.status(201).json({
             new_friend: { ...newFriend, ID: result.id }
         });
-        logger.info(`New friend added successfully. Friend ID: ${result.id}`);
+        // logger.info(`New friend added successfully. Friend ID: ${result.id}`);
     } catch (err) {
         const errors = handleErrorsForFriendlist(err);
         res.status(400).json({ errors });
-        logger.error(`Error adding a new friend. Error: ${err.message}`);
+        // logger.error(`Error adding a new friend. Error: ${err.message}`);
     }
 }
 
@@ -150,7 +150,7 @@ function is_valid_friend(obj) {
         obj.hasOwnProperty('id_user_log');
 
     if (!result) {
-        logger.debug(`bad object was recieved. ${JSON.stringify(obj)}`);
+        // logger.debug(`bad object was recieved. ${JSON.stringify(obj)}`);
     }
 
     return result;
@@ -168,7 +168,7 @@ module.exports.delete_best_friend = async (req, res) => {
     } catch (e) {
         console.log(e.message);
         res.status(500).json({ error: 'Internal server error' });
-        logger.error(`Error adding a new friend. Error: ${e.message}`);
+        // logger.error(`Error adding a new friend. Error: ${e.message}`);
     }
 };
 
@@ -182,7 +182,7 @@ module.exports.update_best_friend = async (req, res) => {
     } catch (err) {
         const errors = handleErrorsForFriendlist(err);
         res.status(400).json({ errors });
-        logger.error(`Error updating a friend. Error: ${err.message}`);
+        // logger.error(`Error updating a friend. Error: ${err.message}`);
     }
 };
 
