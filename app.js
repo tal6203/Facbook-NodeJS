@@ -15,11 +15,13 @@ const app = express();
 
 
 const corsOptions = {
-  origin: '*',
+  origin: 'https://facbook-node-740n59hru-tal6203.vercel.app',
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 };
+
 app.use(cors(corsOptions));
+
 
 // middleware
 app.use(express.static('public'));
