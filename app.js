@@ -5,7 +5,7 @@ const cookieParser = require('cookie-parser');
 const { checkUser } = require('./middleware/middleware');
 const config = require('./config/default.json');
 const cors = require('cors');
-const logger = require('./logger/my_logger');
+// const logger = require('./logger/my_logger');
 
 
 
@@ -35,13 +35,13 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
     app.listen(port, () => {
       console.log(`Listening to port ${port}`);
-      logger.info(`Server started and listening to port ${port}`);
+      // logger.info(`Server started and listening to port ${port}`);
 
     })
   })
   .catch((err) => {
     console.log(err);
-    logger.error(`Error connecting to the database: ${err.message}`);
+    // logger.error(`Error connecting to the database: ${err.message}`);
   });
 
 
