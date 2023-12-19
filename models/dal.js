@@ -32,10 +32,10 @@ const getFriendsByUserId = async (id) => {
     const friendlist = await connectedKnex('friendlist')
       .select('*')
       .where('id_user_log', id.replace("$oid:", ""));
-    logger.info(`Successfully get all friend in PostgreSQL. User ID: ${id}`);
+    // logger.info(`Successfully get all friend in PostgreSQL. User ID: ${id}`);
     return friendlist;
   } catch (error) {
-    logger.error(`Error fetching friend list from PostgreSQL. Error: ${error.message}`);
+    // logger.error(`Error fetching friend list from PostgreSQL. Error: ${error.message}`);
 
   }
 };
@@ -46,10 +46,10 @@ const getFriendById = async (userId, friendId) => {
       .select('*')
       .where('id_user_log', userId.replace("$oid:", ""))
       .where('id', friendId)
-    logger.info(`Successfully get friend by id ${friendId} from PostgreSQL. User ID: ${userId}`);
+    // logger.info(`Successfully get friend by id ${friendId} from PostgreSQL. User ID: ${userId}`);
     return result;
   } catch (error) {
-    logger.error(`Error get friend from PostgreSQL. Error: ${error.message}`);
+    // logger.error(`Error get friend from PostgreSQL. Error: ${error.message}`);
   }
 };
 
@@ -72,14 +72,14 @@ const addFriend = async (addFriend) => {
     result = await connectedKnex('friendlist')
       .insert(friendToAdd)
       .returning('id');
-    logger.info(`New friend added to PostgreSQL. Friend ID: ${result[0].id}`);
+    // logger.info(`New friend added to PostgreSQL. Friend ID: ${result[0].id}`);
     return result[0];
   } catch (error) {
     // Check for duplicate key violation
     if (error.code === '23505') {
-      logger.error(`Duplicate key violation. Error: ${error.detail}`);
+      // logger.error(`Duplicate key violation. Error: ${error.detail}`);
     } else {
-      logger.error(`Error adding a new friend to PostgreSQL. Error: ${error.message}`);
+      // logger.error(`Error adding a new friend to PostgreSQL. Error: ${error.message}`);
     }
     throw Error(`${error.message}`);
   }
@@ -91,10 +91,10 @@ const deleteFriendById = async (userId, friendId) => {
       .where('id_user_log', userId.replace("$oid:", ""))
       .where('id', friendId)
       .del();
-    logger.info(`Successfully deleted friend from PostgreSQL. Friend ID: ${friendId}`);
+    // logger.info(`Successfully deleted friend from PostgreSQL. Friend ID: ${friendId}`);
     return result;
   } catch (error) {
-    logger.error(`Error deleting friend from PostgreSQL. Error: ${error.message}`);
+    // logger.error(`Error deleting friend from PostgreSQL. Error: ${error.message}`);
   }
 };
 
@@ -110,7 +110,7 @@ const updateFriendById = async (userId, friendId, updated_friend) => {
       .first();
 
     if (!existingFriend) {
-      logger.error('Friend not found in the friendlist.');
+      // logger.error('Friend not found in the friendlist.');
       return null;
     }
 
@@ -119,10 +119,10 @@ const updateFriendById = async (userId, friendId, updated_friend) => {
       .where('id', existingFriend.id)
       .update(updated_friend);
 
-    logger.info(`Successfully updated friend in PostgreSQL. Friend ID: ${friendId}`);
+    // logger.info(`Successfully updated friend in PostgreSQL. Friend ID: ${friendId}`);
     return result;
   } catch (error) {
-    logger.error(`Error updating friend in PostgreSQL. Error: ${error.message}`);
+    // logger.error(`Error updating friend in PostgreSQL. Error: ${error.message}`);
     throw Error(`${error.message}`);
   }
 };
