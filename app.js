@@ -16,11 +16,6 @@ const app = express();
 app.use(express.static('public'));
 app.set('views', path.join(__dirname, 'views'));
 app.set('public', path.join(__dirname, 'public'));
-app.use(cors({
-  origin: 'https://facbook-node-740n59hru-tal6203.vercel.app/',  // Replace with the origin of your frontend
-  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-  credentials: true,  // Enable credentials (cookies, authorization headers)
-}));
 app.use(express.json());
 app.use(cookieParser());
 
