@@ -1,12 +1,7 @@
 [build]
-  command = "npm install && npm run build"
-  functions = "functions"
+  command = "npm install"
+  functions = "functions"  # Update this if you have serverless functions
   publish = "public"
-
-[[redirects]]
-  from = "/public/*"
-  to = "/:splat"
-  status = 200
 
 [[headers]]
   for = "/public/*"
@@ -19,5 +14,7 @@
   [headers.values]
     Access-Control-Allow-Origin = "*"
 
-[dev]
-  functionsPort = 34567
+[[redirects]]
+  from = "/public/*"
+  to = "/:splat"
+  status = 200
