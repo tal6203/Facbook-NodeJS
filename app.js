@@ -12,6 +12,13 @@ const path = require('path');
 
 const app = express();
 
+
+
+const corsOptions = {
+  origin: "https://facbook-node-7vee7y8tu-tal6203.vercel.app",
+};
+app.use(cors(corsOptions));
+
 // middleware
 app.use(express.static('public'));
 app.set('views', path.join(__dirname, 'views'));
