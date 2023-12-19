@@ -17,7 +17,7 @@ app.use(express.static('public'));
 app.set('views', path.join(__dirname, 'views'));
 app.set('public', path.join(__dirname, 'public'));
 app.use(cors({
-  origin: 'https://facbook-node-js.vercel.app/',
+  origin: 'https://facbook-node-js-tal6203.vercel.app',
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 }));
