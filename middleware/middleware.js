@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
-const logger = require('../logger/my_logger');
+// const logger = require('../logger/my_logger');
 
 
 const ToBestFriends = async (req, res, next) =>  {
