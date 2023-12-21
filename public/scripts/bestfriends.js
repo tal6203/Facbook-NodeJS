@@ -242,9 +242,7 @@ function filterUsername(searchValue) {
 
 
 function getAllFriends() {
-      fetch(`https://facbook-node-js.vercel.app/friends/${user.id}`, {
-    mode: "no-cors",  
-  })
+      fetch(`https://facbook-node-js.vercel.app/friends/${user.id}`)
       .then((res) =>  {
     if (res.status === 204) {
       return {}; // Return an empty object
