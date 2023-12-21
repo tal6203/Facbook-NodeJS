@@ -1,7 +1,7 @@
 function deleteFriend(friendId) {
     
 
-    fetch(`https://facbook-nodejs.onrender.com/friends/${user.id}/${friendId}`, {
+    fetch(`https://facbook-node-js.vercel.app/friends/${user.id}/${friendId}`, {
       method: "DELETE",
       headers: {
         Accept: "application/json",
@@ -79,7 +79,7 @@ function deleteFriend(friendId) {
   function cancelEdit(friendId, userId, cancelButton) {
   const friendCard = cancelButton.parentNode.parentNode;
 
-  fetch(`https://facbook-nodejs.onrender.com/friends/${userId}/${friendId}`).then((res) => res.json())
+  fetch(`https://facbook-node-js.vercel.app/friends/${userId}/${friendId}`).then((res) => res.json())
   .then((data) => {
     const friend = data.result[0]
     const back_card_friend = `
@@ -110,7 +110,7 @@ function deleteFriend(friendId) {
       image_src: form.image_src.files[0].name
     };
 
-    fetch(`https://facbook-nodejs.onrender.com/friends/${user.id}/${friendId}`, {
+    fetch(`https://facbook-node-js.vercel.app/friends/${user.id}/${friendId}`, {
       method: "PUT",
       headers: {
         Accept: "application/json",
@@ -151,7 +151,7 @@ function deleteFriend(friendId) {
     };
 
     
-     fetch(`https://facbook-nodejs.onrender.com/friends/${user.id}`, {
+     fetch(`https://facbook-node-js.vercel.app/friends/${user.id}`, {
       method: "POST",
       headers: {
         Accept: "application/json",
