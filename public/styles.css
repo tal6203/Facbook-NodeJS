@@ -4,9 +4,14 @@
     box-sizing: border-box;
   }
   
+  @font-face {
+    font-family: 'Exo-2';
+    src: url('./font/Exo2-Italic-VariableFont_wght.ttf') format('truetype');
+  }
   
 
   body {
+    font-family: 'Exo-2';
     min-height: 100vh;
     display:flex;
     flex-direction: column;
@@ -21,7 +26,7 @@
 
   
   .connect-h1 {
-    font-family: 'Calligraffitti', cursive;
+    font-family: 'Exo-2';
     font-size: 3rem;
     letter-spacing: 0.02em;
     text-transform: uppercase;
@@ -37,7 +42,7 @@
 
 
   body{
-    font-family: cursive;
+    font-family: 'Exo-2';
 
     background-image: linear-gradient(to left bottom, #517eda, #4f7fdf, #4d7fe3, #4a80e8, #4880ec, #368df4, 
     #2199fa, #00a5ff, #00bdff, #00d3ff, #00e7fa, #33f9ec);
