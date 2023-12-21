@@ -15,7 +15,7 @@ const app = express();
 
 
 const corsOptions = {
-  origin: 'https://facbook-node-740n59hru-tal6203.vercel.app',
+  origin: 'https://facbook-node-js.vercel.app/',
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 };
