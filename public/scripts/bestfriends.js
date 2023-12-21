@@ -3,10 +3,6 @@ function deleteFriend(friendId) {
 
     fetch(`https://facbook-node-js.vercel.app/friends/${user.id}/${friendId}`, {
       method: "DELETE",
-      headers: {
-        Accept: "application/json",
-        "Content-type": "application/json",
-      },
     }).then(() => getAllFriends());
   }
 
